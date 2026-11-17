@@ -1,4 +1,4 @@
-## Face Recognition System
+## Facial Recognition System
 
 A face detection and verification system built with Python and Artificial Neural Networks (ANNs) for authentication and security applications.
 
